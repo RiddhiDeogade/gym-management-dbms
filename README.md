@@ -25,7 +25,7 @@ Each user interacts with the system using structured SQL queries, procedures, an
  Entity-Relationship (ER) Diagram:
 A well-designed ER model was created, consisting of entities like Members, Trainers, MembershipPlans, Payments, Workouts, and Attendance, with appropriate primary and foreign key relationships.
 
-(Attach ER Diagram Image Here)
+https://github.com/RiddhiDeogade/gym-management-dbms/blob/main/er-diag.png
 
 ## 5) Schema Objects in the Application
 The application includes the following database schema objects:
