@@ -4,11 +4,11 @@ The Gym Management System is a database-driven application designed to manage th
 
 ## 2) Purpose of the Application
 The primary goal of this application is to streamline gym operations by:
-✅ Managing memberships: Track active/inactive members and their assigned plans.
-✅ Handling trainer assignments: Assign trainers to workouts and packages.
-✅ Tracking workout schedules: Schedule member workouts with specific trainers.
-✅ Recording payments & invoices: Automate invoice generation and log payment transactions.
-✅ Monitoring attendance: Keep records of member check-ins and workout completion.
+- Managing memberships: Track active/inactive members and their assigned plans.
+- Handling trainer assignments: Assign trainers to workouts and packages.
+- Tracking workout schedules: Schedule member workouts with specific trainers.
+- Recording payments & invoices: Automate invoice generation and log payment transactions.
+- Monitoring attendance: Keep records of member check-ins and workout completion.
 
 This project provides an efficient, automated solution to replace manual record-keeping in a gym environment.
 
@@ -22,10 +22,10 @@ The application involves different user roles:
 Each user interacts with the system using structured SQL queries, procedures, and views.
 
 ## 4) ER Diagram
-📝 Entity-Relationship (ER) Diagram:
+ Entity-Relationship (ER) Diagram:
 A well-designed ER model was created, consisting of entities like Members, Trainers, MembershipPlans, Payments, Workouts, and Attendance, with appropriate primary and foreign key relationships.
 
-📌 (Attach ER Diagram Image Here)
+(Attach ER Diagram Image Here)
 
 ## 5) Schema Objects in the Application
 The application includes the following database schema objects:
